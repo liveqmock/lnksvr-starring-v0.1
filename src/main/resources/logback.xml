@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+    <property name="PRJ_HOME" value="d:/ccbprize/logs"/>
+    <!--<property file="prjcfg.properties" />-->
+
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>===%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread:%relative] %-5level %logger - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${PRJ_HOME}/main.log</file>
+        <encoder>
+            <pattern>===%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread:%relative] %-5level %logger - %msg%n</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>main.%d{yyyy-MM-dd}.log</fileNamePattern>
+            <maxHistory>30</maxHistory>
+        </rollingPolicy>
+    </appender>
+
+    <root level="debug">
+        <appender-ref ref="STDOUT"/>
+        <appender-ref ref="FILE"/>
+    </root>
+</configuration>
+
