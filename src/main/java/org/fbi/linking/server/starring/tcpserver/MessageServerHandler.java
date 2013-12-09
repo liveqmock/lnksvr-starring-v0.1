@@ -35,13 +35,10 @@ public class MessageServerHandler extends SimpleChannelInboundHandler<String> {
         String responseBuffer = "";
         logger.info("服务器收到报文：" + requestBuffer);
 
+        Stdp10ProcessorRequest request = new Request(requestBuffer);
         Stdp10ProcessorResponse response = new Response();
 
         try {
-            Stdp10ProcessorRequest request = new Request(requestBuffer);
-            //ProcessorRequest processorRequest = new Stdp10ProcessorRequestWrapper(request) ;
-
-
             //1.MAC校验  实时获取是否校验标志，方便更新
             String macFlag = (String) ProjectConfigManager.getInstance().getProperty("posserver_mac_flag");
             if (macFlag != null && "1".equals(macFlag)) {//需校验
@@ -53,39 +50,19 @@ public class MessageServerHandler extends SimpleChannelInboundHandler<String> {
             logger.info("服务器收到报文，交易号:" + txnCode);
 
             //3.调用业务逻辑处理程序
-            //Class clazz = Class.forName("org.fbi.linking.server.posprize.processor.T" + txnCode + "processor");
-            //TxnProcessor processor = (TxnProcessor)clazz.newInstance();
-
-
             Processor processor = getTxnprocessor(txnCode);
-
-            //ProcessorResponse response = new ProcessorResponse();
             processor.service(request, response);
 
             //
-            response.addHeader("version", request.getHeader("version"));
-            response.addHeader("serialNo", request.getHeader("serialNo"));
-            response.addHeader("txnCode", request.getHeader("txnCode"));
-            response.addHeader("branchID", request.getHeader("branchID"));
-            response.addHeader("tellerID", request.getHeader("tellerID"));
-            response.addHeader("ueserID", request.getHeader("ueserID"));
-            response.addHeader("appID", request.getHeader("appID"));
-            response.addHeader("txnTime", new SimpleDateFormat("yyyyMMddHHmmss").format(new Date()));
-            String mac = "";
-            if (response.getResponseBody().length == 0) {
-                mac = MD5Helper.getMD5String(response.getHeader("txnTime").substring(0, 8)
-                        + response.getHeader("ueserID").trim());
-            } else {
-                mac = MD5Helper.getMD5String(new String(response.getResponseBody())
-                        + response.getHeader("txnTime").substring(0, 8)
-                        + response.getHeader("ueserID").trim());
-            }
-            response.addHeader("mac", mac);
-
-        } catch (Exception ex) {
-            logger.error("Get txn processor instance error.", ex);
-            responseBuffer = getErrResponse("1000");
+        } catch (Throwable ex) {
+            logger.error("报文处理失败.", ex);
+            response.addHeader("rtnCode", "9999"); //TODO
+            //String rtnCode = response.getHeader("rtnCode");
+            //if (StringUtils.isEmpty(rtnCode)) {
+            //}
         }
+
+        assembleResponseInfo(request, response);
 
         //TODO 直接发送字节数组？
         responseBuffer = getResponseMessage(response);
@@ -101,6 +78,28 @@ public class MessageServerHandler extends SimpleChannelInboundHandler<String> {
 
         logger.info("服务器返回报文：" + responseBuffer);
         ctx.close();
+    }
+
+    private void assembleResponseInfo(Stdp10ProcessorRequest request, Stdp10ProcessorResponse response) {
+        response.addHeader("version", request.getHeader("version"));
+        response.addHeader("serialNo", request.getHeader("serialNo"));
+        response.addHeader("txnCode", request.getHeader("txnCode"));
+        response.addHeader("branchID", request.getHeader("branchID"));
+        response.addHeader("tellerID", request.getHeader("tellerID"));
+        response.addHeader("ueserID", request.getHeader("ueserID"));
+        response.addHeader("appID", request.getHeader("appID"));
+        response.addHeader("txnTime", new SimpleDateFormat("yyyyMMddHHmmss").format(new Date()));
+        String mac = "";
+        byte[] responseBody = response.getResponseBody();
+        if (responseBody == null || responseBody.length == 0) {
+            mac = MD5Helper.getMD5String(response.getHeader("txnTime").substring(0, 8)
+                    + response.getHeader("ueserID").trim());
+        } else {
+            mac = MD5Helper.getMD5String(new String(responseBody)
+                    + response.getHeader("txnTime").substring(0, 8)
+                    + response.getHeader("ueserID").trim());
+        }
+        response.addHeader("mac", mac);
     }
 
     @Override
@@ -120,11 +119,12 @@ public class MessageServerHandler extends SimpleChannelInboundHandler<String> {
         ServiceReference reference = null;
         ServiceReference[] references = new ServiceReference[0];
         try {
-            //String filter = "(objectclass=" + ProcessorManagerService.class.getName() + ")";
+            //TODO APPID配置
             String filter = "(APPID=" + "AIC-QDE" + ")";
             references = context.getServiceReferences(ProcessorManagerService.class.getName(), filter);
         } catch (InvalidSyntaxException e) {
-            e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
+            logger.error("获取交易处理程序错误。", e);
+            throw  new RuntimeException("获取交易处理程序错误。", e);
         }
         if (references.length == 0) {
             System.out.println("服务名称未找到" + ProcessorManagerService.class.getName());
@@ -144,7 +144,7 @@ public class MessageServerHandler extends SimpleChannelInboundHandler<String> {
     }
 
     private String getResponseMessage(Stdp10ProcessorResponse response) throws UnsupportedEncodingException {
-        StringBuffer sb = new StringBuffer();
+        StringBuilder sb = new StringBuilder();
         sb.append(StringUtils.rightPad(response.getHeader("version"), 3, " "));
         sb.append(StringUtils.rightPad(response.getHeader("serialNo"), 18, " "));
         sb.append(StringUtils.rightPad(response.getHeader("rtnCode"), 4, " "));
@@ -155,7 +155,10 @@ public class MessageServerHandler extends SimpleChannelInboundHandler<String> {
         sb.append(StringUtils.rightPad(response.getHeader("appID"), 6, " "));
         sb.append(StringUtils.rightPad(response.getHeader("txnTime"), 14, " "));
         sb.append(StringUtils.rightPad(response.getHeader("mac"), 32, " "));
-        sb.append(new String(response.getResponseBody(), response.getCharacterEncoding()));
+        byte[] responseBody = response.getResponseBody();
+        if (responseBody != null && responseBody.length != 0) {
+            sb.append(new String(responseBody, response.getCharacterEncoding()));
+        }
 
         return sb.toString();
     }
