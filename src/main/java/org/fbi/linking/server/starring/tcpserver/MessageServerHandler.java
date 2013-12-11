@@ -84,20 +84,20 @@ public class MessageServerHandler extends SimpleChannelInboundHandler<String> {
         response.addHeader("version", request.getHeader("version"));
         response.addHeader("serialNo", request.getHeader("serialNo"));
         response.addHeader("txnCode", request.getHeader("txnCode"));
-        response.addHeader("branchID", request.getHeader("branchID"));
-        response.addHeader("tellerID", request.getHeader("tellerID"));
-        response.addHeader("ueserID", request.getHeader("ueserID"));
-        response.addHeader("appID", request.getHeader("appID"));
+        response.addHeader("branchId", request.getHeader("branchId"));
+        response.addHeader("tellerId", request.getHeader("tellerId"));
+        response.addHeader("ueserId", request.getHeader("ueserId"));
+        response.addHeader("appId", request.getHeader("appId"));
         response.addHeader("txnTime", new SimpleDateFormat("yyyyMMddHHmmss").format(new Date()));
         String mac = "";
         byte[] responseBody = response.getResponseBody();
         if (responseBody == null || responseBody.length == 0) {
             mac = MD5Helper.getMD5String(response.getHeader("txnTime").substring(0, 8)
-                    + response.getHeader("ueserID").trim());
+                    + response.getHeader("ueserId").trim());
         } else {
             mac = MD5Helper.getMD5String(new String(responseBody)
                     + response.getHeader("txnTime").substring(0, 8)
-                    + response.getHeader("ueserID").trim());
+                    + response.getHeader("ueserId").trim());
         }
         response.addHeader("mac", mac);
     }
@@ -139,9 +139,6 @@ public class MessageServerHandler extends SimpleChannelInboundHandler<String> {
         return service.getProcessor(txnCode.substring(3));
     }
 
-    private String getErrResponse(String errCode) {
-        return "121212";
-    }
 
     private String getResponseMessage(Stdp10ProcessorResponse response) throws UnsupportedEncodingException {
         StringBuilder sb = new StringBuilder();
@@ -149,10 +146,10 @@ public class MessageServerHandler extends SimpleChannelInboundHandler<String> {
         sb.append(StringUtils.rightPad(response.getHeader("serialNo"), 18, " "));
         sb.append(StringUtils.rightPad(response.getHeader("rtnCode"), 4, " "));
         sb.append(StringUtils.rightPad(response.getHeader("txnCode"), 7, " "));
-        sb.append(StringUtils.rightPad(response.getHeader("branchID"), 9, " "));
-        sb.append(StringUtils.rightPad(response.getHeader("tellerID"), 12, " "));
-        sb.append(StringUtils.rightPad(response.getHeader("ueserID"), 6, " "));
-        sb.append(StringUtils.rightPad(response.getHeader("appID"), 6, " "));
+        sb.append(StringUtils.rightPad(response.getHeader("branchId"), 9, " "));
+        sb.append(StringUtils.rightPad(response.getHeader("tellerId"), 12, " "));
+        sb.append(StringUtils.rightPad(response.getHeader("ueserId"), 6, " "));
+        sb.append(StringUtils.rightPad(response.getHeader("appId"), 6, " "));
         sb.append(StringUtils.rightPad(response.getHeader("txnTime"), 14, " "));
         sb.append(StringUtils.rightPad(response.getHeader("mac"), 32, " "));
         byte[] responseBody = response.getResponseBody();
