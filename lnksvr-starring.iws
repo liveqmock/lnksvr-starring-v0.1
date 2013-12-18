@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="055acde1-e2f5-4ca5-b7ca-e76f096eb900" name="Default" comment="" />
+    <list default="true" id="055acde1-e2f5-4ca5-b7ca-e76f096eb900" name="Default" comment="init">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/tcpserver/MessageServerHandler.java" afterPath="$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/tcpserver/MessageServerHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lnksvr-starring.ipr" afterPath="$PROJECT_DIR$/lnksvr-starring.ipr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lnksvr-starring.iws" afterPath="$PROJECT_DIR$/lnksvr-starring.iws" />
+    </list>
     <ignored path="lnksrv-staring.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="E:/../git-ccbposprize/src/ccbprize2/linkingsrv-posprize/linkingsrv-posprize.iws" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1382069073532" ignored="false" />
-    <file path="/*.regexp" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386315639234" ignored="false" />
+    <file path="/*.regexp" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387347752153" ignored="false" />
     <file path="$PROJECT_DIR$/../../git-ccbposprize/src/ccbprize2/linkingsrv-posprize/linkingsrv-posprize.iws" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1382085134215" ignored="false" />
     <file path="/PosPrizeServerActivator.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1382081617894" ignored="false" />
     <file path="$PROJECT_DIR$/../../git-ccbposprize/src/ccbprize2/linkingapp-posprize/src/main/resources/db.properties" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1382082620177" ignored="false" />
     <file path="$PROJECT_DIR$/../../git-ccbposprize/src/ccbprize2/linkingsrv-posprize/src/main/resources/prjcfg.properties" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1383196502442" ignored="false" />
-    <file path="/fragment.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386235094253" ignored="false" />
+    <file path="/fragment.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387360186838" ignored="false" />
     <file path="/NettyServer.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1382083264301" ignored="false" />
-    <file path="/prjcfg.properties" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385529870292" ignored="false" />
+    <file path="/prjcfg.properties" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386729831479" ignored="false" />
     <file path="/ServerService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1382083687576" ignored="false" />
-    <file path="/Dummy.txt" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386322457278" ignored="false" />
+    <file path="/Dummy.txt" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387369205406" ignored="false" />
     <file path="$PROJECT_DIR$/../../git-fbifeb/src/fbi-feb/main/java/feb/service/DataExchangeService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1382346742326" ignored="false" />
     <file path="$PROJECT_DIR$/../../svn-qdccbloan/source/ccbloan_v4.0/webRoot/UI/ccb/loan/payBill/payBillReport102.jsp" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1382507441230" ignored="false" />
     <file path="/payBillReport102.jsp" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1382507439374" ignored="false" />
@@ -135,7 +139,7 @@
     <file path="E:/ideaworkspace/webbit-server/src/main/java/org/webbitserver/EventSourceHandler.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1383556802031" ignored="false" />
     <file path="E:/ideaworkspace/webbit-server/src/test/java/samples/chatroom/Main.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1383558437103" ignored="false" />
     <file path="E:/ideaworkspace/webbit-server/src/test/java/samples/chatroom/content/chatroom.js" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1383707970713" ignored="false" />
-    <file path="/a.dummy" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386251894948" ignored="false" />
+    <file path="/a.dummy" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387367923554" ignored="false" />
     <file path="E:/ideaworkspace/webbit-server/src/main/java/org/webbitserver/helpers/NamingThreadFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1383721762098" ignored="false" />
     <file path="$PROJECT_DIR$/../../svn-fcdep/src/fbi-fcdep/dep/java/org/fbi/dep/transform/ToaXml9009001Transform.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1384656520755" ignored="false" />
     <file path="/ToaXml9009001Transform.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1384591687002" ignored="false" />
@@ -145,14 +149,14 @@
     <file path="$PROJECT_DIR$/../../svn-fcdep/src/fbi-fcdep/dep/java/org/fbi/dep/transform/TiaXml1002001Transform.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1384656520755" ignored="false" />
     <file path="$PROJECT_DIR$/../../git-fbifeb/src/fbi-feb/main/java/feb/service/PdfPrintService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1384854295216" ignored="false" />
     <file path="$PROJECT_DIR$/../../git-fbifeb/src/fbi-feb/main/java/feb/view/ClientAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1384854886452" ignored="false" />
-    <file path="/MessageServerHandler.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386319581707" ignored="false" />
+    <file path="/MessageServerHandler.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387368719898" ignored="false" />
     <file path="$PROJECT_DIR$/../../git-ccbposprize/src/ccbprize/ccbprize/src/java/prize/client/StarringTestClient.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385349873030" ignored="false" />
     <file path="/StarringTestClient.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385085198534" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapi-v0.1/src/main/META-INF/MANIFEST.MF" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385471156583" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/META-INF/MANIFEST.MF" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385471228439" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/META-INF/MANIFEST.MF" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/posprize/processor/T1070processor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385427998479" ignored="false" />
     <file path="$PROJECT_DIR$/../mocktools/starringmock/src/main/java/StarMock.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386319347109" ignored="false" />
-    <file path="/StarMock.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386319230039" ignored="false" />
+    <file path="/StarMock.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386924274361" ignored="false" />
     <file path="$PROJECT_DIR$/../../git-linking/src/fbi-linking/main/java/apps/fisjz/online/action/AbstractTxnAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385362199958" ignored="false" />
     <file path="$PROJECT_DIR$/../../svn-qdccbloan/srctmptest/ccbloan_v4.0/webRoot/WEB-INF/web.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385367065688" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/posprize/repository/dao/PrizeMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385428399840" ignored="false" />
@@ -160,12 +164,12 @@
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/posprize/repository/dao/PrizeMapper.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385428403467" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/posprize/repository/dao/AicqdeMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385428403467" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/helper/DBHelper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385428616407" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/processor/T1070processor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386315775391" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/processor/T1070processor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387366713166" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/base/TOAHeader.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385428616407" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/service/PosprizeProcessorManagerService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385429257358" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/base/TOABody.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385428616407" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/base/TOA.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385428616407" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/repository/dao/AicqdeMapper.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385428616407" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/repository/dao/AicqdeMapper.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386506708364" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/base/TIAHeader.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385428616407" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/repository/dao/AicqdeMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385428616407" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/base/TIABody.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385428616407" ignored="false" />
@@ -173,23 +177,23 @@
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/TOA1001.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385428616407" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/processor/TxnRunTimeException.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385517102550" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/TIA1001.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385428616407" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/processor/TxnMainProcessor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385517190619" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/processor/TxnMainProcessor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386553066021" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/common/MybatisFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385428616407" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/internal/ProcessorFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385429287936" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/internal/AppActivator.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385470026257" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/internal/ProcessorFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/internal/AppActivator.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387355765912" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/helper/jdbctemplate/StatementCallback.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385428616407" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/helper/jdbctemplate/JdbcTemplate.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385428616407" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/helper/ProjectConfigManager.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385543443425" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/helper/MD5Helper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385428616407" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/resources/logback.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385428616407" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/resources/mybatis-config.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385428616407" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/resources/db.properties" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385428616407" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/resources/prjcfg.properties" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385533828920" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/lnkapp-aic-qde.iws" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385708055828" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/lnkapp-aic-qde.ipr" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385429374874" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/helper/ProjectConfigManager.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/helper/MD5Helper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/resources/logback.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/resources/mybatis-config.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/resources/db.properties" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/resources/prjcfg.properties" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386929659586" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/lnkapp-aic-qde.iws" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387369072245" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/lnkapp-aic-qde.ipr" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735961582" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/service/ProcessorManagerService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385429218446" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/service/AppProcessorManagerService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385429278100" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/service/ProcessorManagerServiceImpl.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385432968063" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/service/ProcessorManagerServiceImpl.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapi-v0.1/src/main/java/org/fbi/linking/servlet/PosRequest.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385430137859" ignored="false" />
     <file path="/PosRequest.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385434651677" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapi-v0.1/src/main/java/org/fbi/linking/servlet/ServletRequest.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385431166338" ignored="false" />
@@ -206,7 +210,7 @@
     <file path="$PROJECT_DIR$/../lnkapi-v0.1/src/main/java/org/fbi/linking/processor/ProcessorManagerService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385435710243" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapi-v0.1/src/main/java/org/fbi/linking/processor/TxnProcessor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385431250476" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapi-v0.1/src/main/java/org/fbi/linking/processor/Processor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385433746346" ignored="false" />
-    <file path="/T1070processor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386143215659" ignored="false" />
+    <file path="/T1070processor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387349735426" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapi-v0.1/src/main/java/org/fbi/linking/processor/ProcessorContext.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385433614782" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapi-v0.1/src/main/java/org/fbi/linking/processor/ProcessorException.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385433653932" ignored="false" />
     <file path="/MessageConfig.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385433676319" ignored="false" />
@@ -241,7 +245,7 @@
     <file path="/Request.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385538633436" ignored="false" />
     <file path="/Response.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385619816744" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapi-v0.1/src/main/java/org/fbi/linking/connector/Response.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385619819411" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapi-v0.1/src/main/java/org/fbi/linking/connector/Request.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385538635353" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapi-v0.1/src/main/java/org/fbi/linking/connector/Request.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386580457055" ignored="false" />
     <file path="$PROJECT_DIR$/../mocktools/tps-aicqde/src/main/java/thirdpartserver/aicqde/Server.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385524309085" ignored="false" />
     <file path="/Server.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385524231037" ignored="false" />
     <file path="$PROJECT_DIR$/../mocktools/tps-aicqde/tps-aicqde.ipr" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385508351564" ignored="false" />
@@ -249,7 +253,7 @@
     <file path="$PROJECT_DIR$/../mocktools/tps-aicqde/tps-aicqde.iml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385508351564" ignored="false" />
     <file path="$PROJECT_DIR$/../../svn-fbihmfs/src/fbihmfs/hmfs-1.0/dep/resources/depcfg.properties" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385508351564" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/common/SocketClient.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385518877120" ignored="false" />
-    <file path="/SocketClient.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385518877120" ignored="false" />
+    <file path="/SocketClient.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386928817237" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/common/AicqdeClient.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385524819587" ignored="false" />
     <file path="$PROJECT_DIR$/../mocktools/tps-aicqde/src/main/java/thirdpartserver/aicqde/T1070Processor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385520618628" ignored="false" />
     <file path="$PROJECT_DIR$/../mocktools/tps-aicqde/src/main/java/thirdpartserver/aicqde/TxnProcessor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385520533485" ignored="false" />
@@ -259,40 +263,40 @@
     <file path="/T1070Processor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385520618628" ignored="false" />
     <file path="$PROJECT_DIR$/../mocktools/tps-aicqde/src/main/java/thirdpartserver/aicqde/TestServer.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385524606317" ignored="false" />
     <file path="/TestServer.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385524504042" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/common/PropertyManager.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385533566269" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/helper/MybatisFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385533665844" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/helper/AicqdeClient.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386141678185" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/common/PropertyManager.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/helper/MybatisFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/helper/AicqdeClient.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/annotation/FixedLengthRecord.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385534140230" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/DataBindAbstractFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386215914851" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/DataFormat.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385534140230" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/DataBindAbstractFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/DataFormat.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/annotation/LinkType.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385534140230" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/FormatFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385534299706" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/SeperatedTextDataFormat.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385534140230" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/FormatFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/SeperatedTextDataFormat.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/PatternFormat.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385534140230" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/SeperatedTextDataBindFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386214491352" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/AnnotationModelLoader.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385706242671" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/SeperatedTextDataBindFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/AnnotationModelLoader.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/format/ShortPatternFormat.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385534140230" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/samples/staringmodel/T1000/Item.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386312600614" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/annotation/Link.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385534140230" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/annotation/Link.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/DataBindFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386214311898" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/DataBindAbstractDataFormat.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386215854279" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/DataBindAbstractDataFormat.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/format/NumberPatternFormat.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385534217402" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/samples/staringmodel/T1000/Header.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385534350680" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/annotation/OneToMany.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385534140230" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/samples/staringmodel/T1000/Header.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/annotation/OneToMany.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/Format.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385534140230" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/annotation/DataField.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386313763516" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/samples/staringmodel/T1000/TIA1000.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385534374577" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/annotation/DataField.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/samples/staringmodel/T1000/TIA1000.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/format/StringFormat.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385534226060" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/format/DatePatternFormat.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385534210722" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/annotation/SeperatedTextMessage.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385534140230" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/format/FormatException.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385534140230" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/samples/FormatTest.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386314491471" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/samples/FormatTest.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/format/BigDecimalFormat.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385534201984" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/format/ShortFormat.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385534192609" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/annotation/OneToManySeperatedTextMessage.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385534140230" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T1070Request/TIA1070.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385536204158" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T1070Request/TIA1070.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
     <file path="/TIA1070.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385536191092" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T1070Response/TOA1070.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385536364383" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T1070Response/TOA1070.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
     <file path="/TOA1070.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385536326374" ignored="false" />
     <file path="/ProcessorRequest.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385537952309" ignored="false" />
     <file path="/Stdp10ProcessorRequestWrapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1385538041825" ignored="false" />
@@ -305,24 +309,276 @@
     <file path="/cms_balance.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386056829502" ignored="false" />
     <file path="/cms_txndetl.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386057040098" ignored="false" />
     <file path="$PROJECT_DIR$/../../git-haierrms/src/haierrms/src/haier/service/rms/pbcreport/cms_txndetl.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386057103346" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/FixedLengthTextDataBindFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386313494755" ignored="false" />
-    <file path="/FixedLengthTextDataBindFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386312309091" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/FixedLengthTextDataBindFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
+    <file path="/FixedLengthTextDataBindFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386667553159" ignored="false" />
     <file path="/DataBindFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386214311898" ignored="false" />
     <file path="/SeperatedTextDataBindFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386214491352" ignored="false" />
-    <file path="/FormatTest.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386214209187" ignored="false" />
+    <file path="/FormatTest.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386667363694" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/samples/aicmodel/T1000/TIA1000.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386212168438" ignored="false" />
     <file path="/TIA1000.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386212047327" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/samples/aicmodel/T1000/TIA2000.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386212172704" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/samples/aicmodel/T2000/TIA2000.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386312689260" ignored="false" />
-    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/FixedLengthTextDataFormat.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386216520939" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/samples/aicmodel/T2000/TIA2000.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/FixedLengthTextDataFormat.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
     <file path="/FixedLengthTextDataFormat.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386216520014" ignored="false" />
     <file path="/DataBindAbstractDataFormat.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386215854279" ignored="false" />
     <file path="/DataBindAbstractFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386215913565" ignored="false" />
     <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/samples/aicmodel/T2000/Item.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386306574125" ignored="false" />
-    <file path="/Item.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386312595856" ignored="false" />
+    <file path="/Item.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386556090918" ignored="false" />
     <file path="/TIA2000.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386235258086" ignored="false" />
-    <file path="$PROJECT_DIR$/../mocktools/ccb-starringmock/src/main/java/StarMock.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386322084962" ignored="false" />
-    <file path="$PROJECT_DIR$/../mocktools/ccb-starringmock/starringmock.iws" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386322471747" ignored="false" />
+    <file path="$PROJECT_DIR$/../mocktools/ccb-starringmock/src/main/java/StarMock.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386924313839" ignored="false" />
+    <file path="$PROJECT_DIR$/../mocktools/ccb-starringmock/starringmock.iws" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386929659586" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/aicqde/T1070Request/AICTIA1070.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387347343018" ignored="false" />
+    <file path="/AICTIA1070.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387347343018" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/aicqde/T1070Response/AICTOA1070.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386915626935" ignored="false" />
+    <file path="/AICTOA1070.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386915602759" ignored="false" />
+    <file path="/logback.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386502479068" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/enums/EnumApp.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/enums/TxnRtnCode.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386743126284" ignored="false" />
+    <file path="/AicqdeClient.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386496204459" ignored="false" />
+    <file path="/TxnRtnCode.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386655939907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../git-linking/src/fbi-linking/main/java/apps/fisjz/enums/TxnRtnCode.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386505740629" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/common/generator/Ibator.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/common/generator/resources/generatorConfig.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="/generatorConfig.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386506649511" ignored="false" />
+    <file path="/mybatis-config.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386511869134" ignored="false" />
+    <file path="/Ibator.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386506596440" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/repository/dao/common/AicqdeMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/repository/dao/AicQdeEntMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/repository/dao/AicQdeInvesterMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/repository/model/AicQdeEntExample.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/repository/model/AicQdeEnt.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/repository/model/AicQdeInvester.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/repository/model/AicQdeInvesterExample.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/repository/mapper/AicQdeInvesterMapper.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387349157425" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/repository/mapper/AicQdeEntMapper.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387349157425" ignored="false" />
+    <file path="/db.properties" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386552960395" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T1070Request/T1010Request/TIA1010.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386555378038" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T1010Request/TIA1010.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="/TIA1010.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386577063534" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T1010Request/Item.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386556116502" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/processor/T1010processor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387366636501" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/aicqde/T1010Request/AICTIA1010.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/aicqde/T1010Response/AICTOA1010.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T1010Response/TOA1010.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386742958820" ignored="false" />
+    <file path="/AICTIA1010.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386561441899" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/aicqde/T1010Request/Item.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386576919815" ignored="false" />
+    <file path="/T1010processor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387362002486" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/aicqde/T1010Request/AICTIA1010Item.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T1010Request/TIA1010Item.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../mocktools/ccb-mock-tps-aicqde/src/main/java/thirdpartserver/aicqde/T1010Processor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387368899572" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapi-v0.1/linking-api.iws" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386727500932" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/aicqde/T1010Response/AICTOA1010Item.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386582637690" ignored="false" />
+    <file path="/AICTOA1010.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386583035406" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/samples/staringmodel/T1000/TIA1000Item.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/samples/aicmodel/T2000/TIA2000Item.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
+    <file path="/AppActivator.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386728533522" ignored="false" />
+    <file path="$PROJECT_DIR$/../mocktools/ccb-mock-tps-aicqde/tps-aicqde.iws" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386736619777" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/processor/T1011processor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387366653103" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/processor/T1071processor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387366798598" ignored="false" />
+    <file path="/T1011processor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386752749743" ignored="false" />
+    <file path="/T1071processor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387349781825" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T1011Request/TIA1010Item.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386733370502" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T1011Request/TIA1010.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386733370502" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T1011Request/TIA1011.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386742696195" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T1011Request/TIA1011Item.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/annotation/OneToManyFixedLengthTextMessage.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/.gitattributes" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/.gitignore" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792640" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/linking/codec/dataformat/annotation/FixedLengthTextMessage.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/lnkapp-aic-qde.iml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386735792639" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T1011Response/TOA1011.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386742862871" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T1071Request/TIA1071.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386742614465" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T1071Response/TOA1071.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386742539328" ignored="false" />
+    <file path="/TIA1071.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386742606674" ignored="false" />
+    <file path="/TOA1011.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386742800923" ignored="false" />
+    <file path="/TOA1010.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386742958820" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/aicqde/T1011Request/AICTIA1011.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386746139498" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/aicqde/T1011Request/AICTIA1011Item.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386746017647" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/aicqde/T1011Response/AICTOA1011.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386746029826" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/aicqde/T1071Request/AICTIA1071.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386746206307" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/aicqde/T1071Response/AICTOA1071.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386746052710" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/org/primefaces/util/Constants.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796841" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/org/primefaces/component/export/ExporterFactory.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/org/primefaces/component/datatable/DataTable.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/test/TestAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/common/OperationLogAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/common/TrackMiscAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/common/ScheduleLogAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pub/auth/MD5Helper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pub/platform/system/manage/oper/PasswordInsertAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pub/platform/system/manage/oper/UserInsertAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/prdset/check/ProductCheckAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/org/primefaces/component/api/UIData.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/prdset/input/PsSalesInfoInputAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/prdset/input/PsSalesInfoListAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pub/platform/security/OperatorManager.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/prdset/archive/PrdsetArchiveAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/org/primefaces/component/api/UIColumn.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/custmng/CustMngAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/custmng/CustBizDataQryAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824954880" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/dataetl/DataETLAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824973968" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/org/primefaces/component/export/CSVExporter.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/custlist/CustinfoLazyAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/custlist/ImportAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824950646" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/telemarketing/InterviewInfoBranchExport.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/telemarketing/SalesInfoCollectExport.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/telemarketing/SalesInfoPlanPrt.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/telemarketing/meeting/TxnDateAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/telemarketing/meeting/MeetingInputAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/telemarketing/summaryqry/MeetingSummaryAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/telemarketing/summaryqry/SalesSummaryAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/batch/autoclean/PrdsetAutoCleaner.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/test/TestService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/common/PlatformService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/common/ToolsService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/prdset/PsStatisticService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/batch/productsetcheck/product/ProductCheck.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/prdset/PsBatchCheckService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/prdset/PsSalesInfoService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/prdset/OdsbQryService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/custmng/CustMngService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/dataetl/DataETLService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/batch/productsetcheck/checkpoint/netbank/SecurityTypeCheck.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/custlist/importdata/format/Rpt0201Format.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/batch/productsetcheck/checkpoint/netbank/CustomerTypeCheck.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/custlist/importdata/format/Rpt0601Format.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/batch/productsetcheck/checkpoint/netbank/TxnCountCheck.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/custlist/importdata/format/Rpt0402Format.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/batch/productsetcheck/checkpoint/bankcard/ActBalanceCheck.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/custlist/importdata/format/Rpt0102Format.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/batch/productsetcheck/checkpoint/creditcard/TxnCountCheck.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/custlist/importdata/format/Rpt0106Format.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/batch/productsetcheck/checkpoint/mobilebank/CustomerTypeCheck.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/custlist/importdata/format/Rpt0101Format.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/batch/productsetcheck/checkpoint/mobilebank/TxnCountCheck.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/custlist/importdata/format/Rpt0105Format.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/batch/productsetcheck/checkpoint/smsservice/CustomerTypeCheck.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/custlist/importdata/format/Rpt0104Format.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/custlist/importdata/format/Rpt0401Format.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/custlist/importdata/format/Rpt0103Format.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/largedepflow/LargeDepFlowAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/custlist/importdata/format/Rpt0501Format.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/custlist/importdata/format/Rpt0301Format.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/telemarketing/SalesPrdExport.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/custlist/importdata/format/Rpt0202Format.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/telemarketing/SalesDateAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/telemarketing/SalesQueryAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/view/telemarketing/SalesInputAction.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796864" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/webapp/UI/pams/custmng/custBizDataQry.xhtml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796885" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/largedepflow/LargeDepFlowMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796885" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/telemarketing/TmSalesInfoMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796885" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/custlist/importdata/ImportService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824963162" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/webapp/UI/pams/custlist/importData.xhtml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796885" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/custlist/importdata/Format.groovy" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796885" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/webapp/UI/pams/custlist/custInfoQry.xhtml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796885" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/custlist/importdata/DefaultFormat.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386826247457" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/custlist/importdata/CustlistService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824969953" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/largedepflow/LargeDepFlowService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796885" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/telemarketing/TmSalesInfoService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796885" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/service/telemarketing/MeetingInfoService.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796885" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/webapp/WEB-INF/faces-config.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796885" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/webapp/WEB-INF/primefaces-p.taglib.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796885" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/webapp/WEB-INF/web.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796885" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SysLockMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796885" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/webapp/t.xhtml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796885" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvClsLoanMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvpsarchivectlMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvpssaleprdckptMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/PtoperroleMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvintvinfMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvClsLostMMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvpssaleprdinfoMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/PtdeptMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvClsCustinfoMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/PtlogicactMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvprdsalinfMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvClsVipMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvClsCriticalMMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SysSchedulerLogMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvprdsalinfDelMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/PterrorMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvCmsCustbaseMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvmeetingeventMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/PtmenuMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvClsCriticalQrMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/CpSequenceMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvpsprdsetdetailMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvprdsalplanMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/OdsbLargedepFlowMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvClsCardMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvpsprdckptdefMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvpscheckruleMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvpsprdsetpriceMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvpsprdsetmainMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SysSchedulerMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvpsprdinfoMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvpssaleinfoMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/PtoperMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvmeetinginfMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvClsLostYMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/PtenumainMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/PtoplogMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvintvinfDelMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvpsprdsetmutexMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/PtenudetailMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvClsCreditCardMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/SvClsCtsMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/test/MytestMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/prdset/PsSalesInfoMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/dataetl/DataETLMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/rebel.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/java/pams/repository/dao/custlist/CustlistMapper.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/webapp/UI/pams/custmng/custBaseMng.xhtml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/webapp/WEB-INF/faces-config_primefaces.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/webapp/index.jsp" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/webapp/close.jsp" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824796886" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/resources/credit.properties" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824797174" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/webapp/Login.xhtml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824797174" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/webapp/welcome.jsp" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824797174" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/resources/mybatis-config.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824797174" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/resources/applicationContext.xml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824797174" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/webapp/global.jsp" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824797174" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/webapp/webpath.jsp" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824797174" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/webapp/fbiconsole.jsp" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824797174" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/resources/log4j.properties" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824797174" ignored="false" />
+    <file path="$PROJECT_DIR$/../../svn-备份/svn-ccbpams/temp/ccbpams-v2.1/main/webapp/login2homepage.jsp" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386824797174" ignored="false" />
+    <file path="/DefaultFormat.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386825002752" ignored="false" />
+    <file path="$PROJECT_DIR$/../mocktools/ccb-mock-tps-aicqde/src/main/java/thirdpartserver/aicqde/TestServer.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386918022951" ignored="false" />
+    <file path="$PROJECT_DIR$/../mocktools/ccb-starringmock/src/main/java/MockClient.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386924360598" ignored="false" />
+    <file path="$PROJECT_DIR$/../mocktools/ccb-starringmock/src/main/java/TcpClient.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386924388666" ignored="false" />
+    <file path="$PROJECT_DIR$/../mocktools/ccb-starringmock/src/main/java/SocketClient.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387356229694" ignored="false" />
+    <file path="$PROJECT_DIR$/../mocktools/ccb-starringmock/src/main/java/txn10010.txt" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386928578506" ignored="false" />
+    <file path="/a.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386928872981" ignored="false" />
+    <file path="$PROJECT_DIR$/../mocktools/ccb-starringmock/.gitattributes" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386929659586" ignored="false" />
+    <file path="$PROJECT_DIR$/../mocktools/ccb-starringmock/starringmock.ipr" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386929659586" ignored="false" />
+    <file path="$PROJECT_DIR$/../mocktools/ccb-starringmock/src/main/java/txn1010.txt" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386929659586" ignored="false" />
+    <file path="$PROJECT_DIR$/../mocktools/ccb-starringmock/starringmock.iml" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386929659586" ignored="false" />
+    <file path="$PROJECT_DIR$/../mocktools/ccb-starringmock/.gitignore" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1386929659586" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T1020Request/TIA1020.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387349087513" ignored="false" />
+    <file path="/TIA1020.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387349087513" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T1020Response/TOA1020.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387347051603" ignored="false" />
+    <file path="/TOA1020.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387347026806" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T1021Request/TIA1021.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387347123145" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T1021Response/TOA1021.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387347134017" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/aicqde/T1021Request/AICTIA1020.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387347480187" ignored="false" />
+    <file path="/AICTIA1020.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387347288369" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/aicqde/T1021Response/AICTOA1020.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387347546764" ignored="false" />
+    <file path="/AICTOA1020.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387347517320" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/aicqde/T1021Request/AICTIA1021.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387347702005" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/aicqde/T1021Response/AICTOA1021.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387347718550" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/aicqde/T1020Request/AICTIA1020.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387347656810" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/aicqde/T1020Response/AICTOA1020.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387347667353" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/processor/T1020processor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387366666913" ignored="false" />
+    <file path="/T1020processor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387349641847" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/processor/T1021processor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387366683354" ignored="false" />
+    <file path="/T1021processor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387349688592" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/domain/starring/T9999Response/TOA9999.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387368781959" ignored="false" />
+    <file path="/TOA9999.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387360241233" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/java/org/fbi/aicqde/processor/AbstractTxnProcessor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387369070409" ignored="false" />
+    <file path="/AbstractTxnProcessor.java" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387369055876" ignored="false" />
+    <file path="$PROJECT_DIR$/../mocktools/ccb-starringmock/src/main/resources/app156/txn1010.txt" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387366418839" ignored="false" />
+    <file path="/txn1010.txt" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387366418839" ignored="false" />
+    <file path="$PROJECT_DIR$/../lnkapp-aic-qde/src/main/resources/rtncode.properties" changelist="055acde1-e2f5-4ca5-b7ca-e76f096eb900" time="1387367777823" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -337,7 +593,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -374,6 +629,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -386,7 +642,16 @@
       <file leaf-file-name="MessageServerHandler.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/tcpserver/MessageServerHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="47" selection-start="4206" selection-end="4206" vertical-scroll-proportion="2.5130112">
+            <state line="160" column="27" selection-start="7053" selection-end="7053" vertical-scroll-proportion="0.7007435">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logback.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="48" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -440,16 +705,7 @@
       <file leaf-file-name="prjcfg.properties" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/prjcfg.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="33" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MessageEncoder.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/tcpserver/MessageEncoder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="13" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
+            <state line="5" column="26" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -462,10 +718,17 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/domain/base/TOAHeader.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/processor/TxnRunTimeException.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/domain/TOA1001.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/domain/TIA1001.java" />
@@ -474,12 +737,13 @@
         <option value="$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/bootstrap/ServerActivator.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/tcpserver/MessageEncoder.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/tcpserver/MessageDecoder.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/prjcfg.properties" />
         <option value="$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/tcpserver/Response.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/tcpserver/MessageHeader.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/tcpserver/Header.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/tcpserver/Request.java" />
         <option value="$PROJECT_DIR$/src/main/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/prjcfg.properties" />
         <option value="$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/tcpserver/MessageServerHandler.java" />
       </list>
     </option>
@@ -497,10 +761,10 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1378" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -531,7 +795,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -871,6 +1134,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -881,7 +1145,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="File.Encoding" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../lnkapi-v0.1/linking-api.ipr" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -893,6 +1157,7 @@
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -989,16 +1254,47 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">C:\Users\zhanrui\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="055acde1-e2f5-4ca5-b7ca-e76f096eb900" name="Default" comment="" />
       <created>1382068812788</created>
       <updated>1382068812788</updated>
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1386553442631</created>
+      <updated>1386553442631</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1386729023935</created>
+      <updated>1386729023935</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <created>1387356413922</created>
+      <updated>1387356413922</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1019,11 +1315,11 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30487806" sideWeight="0.67161715" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3069909" sideWeight="0.67161715" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1033,8 +1329,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <value>
         <are-packages-shown value="false" />
@@ -1070,7 +1366,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1084,6 +1380,7 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1093,20 +1390,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="27" selection-start="557" selection-end="601" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/tcpserver/MessageEncoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/tcpserver/NettyServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="13" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0">
@@ -1117,34 +1400,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/tcpserver/MessageEncoder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="13" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/prjcfg.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="33" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/bootstrap/ServerService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="19" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/bootstrap/ServerActivator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1187,14 +1442,50 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/lib-comp/netty-transport-4.0.7.Final.jar!/io/netty/channel/ChannelOutboundInvoker.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="35" selection-start="1758" selection-end="1758" vertical-scroll-proportion="0.748538">
+        <state line="41" column="35" selection-start="1758" selection-end="1758" vertical-scroll-proportion="0.748538" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="48" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/bootstrap/ServerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="19" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/lib-comp/netty-transport-4.0.7.Final.jar!/io/netty/channel/DefaultChannelHandlerContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="17" selection-start="3005" selection-end="3005" vertical-scroll-proportion="0.36585367" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/lib-comp/netty-transport-4.0.7.Final.jar!/io/netty/channel/SimpleChannelInboundHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="28" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.43173432" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/prjcfg.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="26" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/bootstrap/ServerActivator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/fbi/linking/server/starring/tcpserver/MessageServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="47" selection-start="4206" selection-end="4206" vertical-scroll-proportion="2.5130112">
+        <state line="160" column="27" selection-start="7053" selection-end="7053" vertical-scroll-proportion="0.7007435">
           <folding />
         </state>
       </provider>

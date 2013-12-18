@@ -122,7 +122,7 @@ public class MessageServerHandler extends SimpleChannelInboundHandler<String> {
             //TODO APPID配置
             String filter = "(APPID=" + appId + ")";
             references = context.getServiceReferences(ProcessorManagerService.class.getName(), filter);
-            if (reference == null) {
+            if (references == null) {
                 throw  new RuntimeException("应用服务APP未找到：APPID=" + appId);
             }
         } catch (InvalidSyntaxException e) {
@@ -158,6 +158,7 @@ public class MessageServerHandler extends SimpleChannelInboundHandler<String> {
         byte[] responseBody = response.getResponseBody();
         if (responseBody != null && responseBody.length != 0) {
             sb.append(new String(responseBody, response.getCharacterEncoding()));
+            sb.append("|");
         }
 
         return sb.toString();
