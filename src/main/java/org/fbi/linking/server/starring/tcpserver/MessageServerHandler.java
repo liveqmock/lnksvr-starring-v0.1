@@ -50,7 +50,7 @@ public class MessageServerHandler extends SimpleChannelInboundHandler<String> {
             logger.info("服务器收到报文，交易号:" + txnCode);
 
             //3.调用业务逻辑处理程序
-            Processor processor = getTxnprocessor(txnCode);
+            Processor processor = getTxnprocessor(txnCode, request.getHeader("appId"));
             processor.service(request, response);
 
             //
@@ -114,14 +114,17 @@ public class MessageServerHandler extends SimpleChannelInboundHandler<String> {
     }
 
 
-    private Processor getTxnprocessor(String txnCode) throws IllegalAccessException, InstantiationException, ClassNotFoundException {
+    private Processor getTxnprocessor(String txnCode, String appId) throws IllegalAccessException, InstantiationException, ClassNotFoundException {
         BundleContext context = ServerActivator.getBundleContext();
         ServiceReference reference = null;
         ServiceReference[] references = new ServiceReference[0];
         try {
             //TODO APPID配置
-            String filter = "(APPID=" + "AIC-QDE" + ")";
+            String filter = "(APPID=" + appId + ")";
             references = context.getServiceReferences(ProcessorManagerService.class.getName(), filter);
+            if (reference == null) {
+                throw  new RuntimeException("应用服务APP未找到：APPID=" + appId);
+            }
         } catch (InvalidSyntaxException e) {
             logger.error("获取交易处理程序错误。", e);
             throw  new RuntimeException("获取交易处理程序错误。", e);
