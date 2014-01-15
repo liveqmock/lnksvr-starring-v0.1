@@ -2,7 +2,7 @@
 <module type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="Osmorc" name="OSGi">
-      <configuration manifestGenerationMode="Manually" manifestLocation="src/main/META-INF/MANIFEST.MF" jarfileLocation="D:\ApplicationServer\apache-karaf-2.3.2\deploy\lnksrv-staring.jar" outputPathType="SpecificOutputPath" bndFileLocation="" bundlorFileLocation="" bundleActivator="" bundleSymbolicName="" bundleVersion="1.0.0" ignoreFilePattern="" useProjectDefaultManifestFileLocation="false" alwaysRebuildBundleJAR="true" doNotSynchronizeWithMaven="false">
+      <configuration manifestGenerationMode="Manually" manifestLocation="src/main/META-INF/MANIFEST.MF" jarfileLocation="D:\linkingroot\karaf\deploy\lnksrv-staring.jar" outputPathType="SpecificOutputPath" bndFileLocation="" bundlorFileLocation="" bundleActivator="" bundleSymbolicName="" bundleVersion="1.0.0" ignoreFilePattern="" useProjectDefaultManifestFileLocation="false" alwaysRebuildBundleJAR="true" doNotSynchronizeWithMaven="false">
         <additionalProperties />
         <additionalJARContents>
           <entry source="$MODULE_DIR$/lib/lib-run" dest="lib" />

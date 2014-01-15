@@ -50,11 +50,17 @@
       <profile version="1.0" is_locked="false">
         <option name="myName" value="Project Default" />
         <option name="myLocal" value="false" />
+        <inspection_tool class="ClassInDefaultPackage" enabled="false" level="ERROR" enabled_by_default="false" />
+        <inspection_tool class="PackageAccessibility" enabled="false" level="ERROR" enabled_by_default="false" />
         <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
           <option name="processCode" value="true" />
           <option name="processLiterals" value="true" />
           <option name="processComments" value="true" />
         </inspection_tool>
+        <inspection_tool class="UnknownManifestPackage" enabled="false" level="ERROR" enabled_by_default="false" />
+        <inspection_tool class="UnregisteredActivator" enabled="false" level="ERROR" enabled_by_default="false" />
+        <inspection_tool class="WrongImportPackage" enabled="false" level="ERROR" enabled_by_default="false" />
+        <inspection_tool class="osmorcNonOsgiMavenDependency" enabled="false" level="WARNING" enabled_by_default="false" />
       </profile>
     </profiles>
     <option name="PROJECT_PROFILE" value="Project Default" />
@@ -81,9 +87,6 @@
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" />
     <option name="LAST_EDITED_TAB_NAME" />
-  </component>
-  <component name="Osmorc">
-    <option name="manifestSynchronizationType" value="AutomaticallySynchronize" />
   </component>
   <component name="Palette2">
     <group name="Swing">
@@ -208,22 +211,6 @@
   </component>
   <component name="ProjectDictionaryState">
     <dictionary name="zhanrui" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>General</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
   </component>
   <component name="ProjectModuleManager">
     <modules>
