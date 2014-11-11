@@ -20,7 +20,7 @@ public class ServerActivator implements BundleActivator {
         //try {
             this.serverService = new ServerService(getBundleContext());
             this.serverService.start();
-            System.out.println(new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date()) + " - Starting the Pos prize server bundle....");
+            System.out.println(new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date()) + " - Starting the linking server bundle....");
         //} catch (Exception e) {
         //    e.printStackTrace();
         //}
@@ -28,7 +28,7 @@ public class ServerActivator implements BundleActivator {
 
     public void stop(BundleContext context) throws Exception {
         this.serverService.stop();
-        System.out.println(new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date()) + " - Stopping the Pos prize server bundle...");
+        System.out.println(new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date()) + " - Stopping the linking server bundle...");
     }
 
 }

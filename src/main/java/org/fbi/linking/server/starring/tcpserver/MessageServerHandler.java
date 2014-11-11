@@ -67,6 +67,8 @@ public class MessageServerHandler extends SimpleChannelInboundHandler<String> {
         } catch (Throwable ex) {
             logger.error("报文处理失败.", ex);
             response.addHeader("rtnCode", "9999"); //TODO
+            //2014-11-11 zr  按照林勇要求 追加错误信息
+            response.setResponseBody("交易处理错误.".getBytes(response.getCharacterEncoding()));//2014-11-11
         } finally {
             if (reference != null) {
                 ServerActivator.getBundleContext().ungetService(reference);
@@ -97,18 +99,18 @@ public class MessageServerHandler extends SimpleChannelInboundHandler<String> {
         response.addHeader("txnCode", request.getHeader("txnCode"));
         response.addHeader("branchId", request.getHeader("branchId"));
         response.addHeader("tellerId", request.getHeader("tellerId"));
-        response.addHeader("ueserId", request.getHeader("ueserId"));
+        response.addHeader("userId", request.getHeader("userId"));
         response.addHeader("appId", request.getHeader("appId"));
         response.addHeader("txnTime", new SimpleDateFormat("yyyyMMddHHmmss").format(new Date()));
         String mac = "";
         byte[] responseBody = response.getResponseBody();
         if (responseBody == null || responseBody.length == 0) {
             mac = MD5Helper.getMD5String(response.getHeader("txnTime").substring(0, 8)
-                    + response.getHeader("ueserId").trim());
+                    + response.getHeader("userId").trim());
         } else {
             mac = MD5Helper.getMD5String(new String(responseBody)
                     + response.getHeader("txnTime").substring(0, 8)
-                    + response.getHeader("ueserId").trim());
+                    + response.getHeader("userId").trim());
         }
         response.addHeader("mac", mac);
     }
@@ -170,7 +172,7 @@ public class MessageServerHandler extends SimpleChannelInboundHandler<String> {
         sb.append(StringUtils.rightPad(response.getHeader("txnCode"), 7, " "));
         sb.append(StringUtils.rightPad(response.getHeader("branchId"), 9, " "));
         sb.append(StringUtils.rightPad(response.getHeader("tellerId"), 12, " "));
-        sb.append(StringUtils.rightPad(response.getHeader("ueserId"), 6, " "));
+        sb.append(StringUtils.rightPad(response.getHeader("userId"), 6, " "));
         sb.append(StringUtils.rightPad(response.getHeader("appId"), 6, " "));
         sb.append(StringUtils.rightPad(response.getHeader("txnTime"), 14, " "));
         sb.append(StringUtils.rightPad(response.getHeader("mac"), 32, " "));

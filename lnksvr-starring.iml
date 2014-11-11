@@ -20,7 +20,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="lib" level="project" />
-    <orderEntry type="library" name="linking-api-v0.1" level="application" />
+    <orderEntry type="library" name="linking-api" level="project" />
   </component>
 </module>
 
